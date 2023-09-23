@@ -18,7 +18,7 @@ services:
   routes:
   - type: rewrite
     source: /.redwood/functions/*
-    destination: https://redwoodjs-test-api.onrender.com/*
+    destination: https://redwood-render-test-api.onrender.com/*
   - type: rewrite
     source: /*
     destination: /index.html
