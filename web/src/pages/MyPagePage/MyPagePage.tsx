@@ -6,7 +6,8 @@ const MyPagePage = () => {
     <>
       <MetaTags title="MyPage" description="MyPage page" />
 
-      <h1>MyPagePage</h1>
+      <h1>RedwoodJS Render Test Deployment</h1>
+      <p>This is a dest deployment only</p>
       <p>
         Find me in <code>./web/src/pages/MyPagePage/MyPagePage.tsx</code>
       </p>
